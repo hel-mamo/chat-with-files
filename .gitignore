@@ -20,6 +20,11 @@ data/vectordb/*
 !data/vectordb/.gitkeep
 data/chat_history.json
 
+# Setup documentation
+CHAT_HISTORY_SETUP.md
+QUICK_START_HISTORY.md
+SUPABASE_SETUP.md
+
 # IDE
 .vscode/
 .idea/
