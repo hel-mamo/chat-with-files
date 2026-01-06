@@ -39,7 +39,7 @@ function App() {
 
   const handleFileSelect = (file) => {
     setCurrentFile(file)
-    setMessages([]) // Clear messages when switching files
+    setMessages([])
   }
 
   const handleNewMessage = (message) => {
