@@ -34,7 +34,7 @@ The publishable key you have only works for READ operations. For WRITE operation
 ```env
 OPENAI_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxx
 OPENAI_BASE_URL=https://openrouter.ai/api/v1
-SUPABASE_URL=https://arrhxbetsygtlisahgyy.supabase.co
+SUPABASE_URL=https://sjdfsgfdshgfghdjf.supabase.co
 SUPABASE_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx # Service Role key
 ```
 
