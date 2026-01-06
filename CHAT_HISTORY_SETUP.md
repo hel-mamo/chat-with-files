@@ -32,10 +32,10 @@ The publishable key you have only works for READ operations. For WRITE operation
 4. Update your `.env` file:
 
 ```env
-OPENAI_API_KEY=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
+OPENAI_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxx
 OPENAI_BASE_URL=https://openrouter.ai/api/v1
 SUPABASE_URL=https://arrhxbetsygtlisahgyy.supabase.co
-SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9... # Service Role key
+SUPABASE_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx # Service Role key
 ```
 
 ### Step 2: Create Database Tables
