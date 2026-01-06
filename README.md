@@ -4,7 +4,7 @@ A FastAPI-based application that allows you to chat with your documents using De
 
 ## Features
 
-- Upload and process various file formats (PDF, DOCX, SVG, etc.)
+- Upload and process various file formats (PDF, etc.)
 - Vector-based document search using OpenAI embeddings
 - Chat interface to query your documents using DeepSeek R1 (free tier)
 - RESTful API with FastAPI
