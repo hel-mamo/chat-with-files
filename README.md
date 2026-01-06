@@ -89,8 +89,6 @@ You can modify the following settings in `backend/config.py`:
 ## Supported File Types
 
 - PDF (.pdf)
-- Word Documents (.doc, .docx)
-- SVG (.svg)
 
 See [ingest.py](backend/ingest.py) for implementation details.
 
